@@ -2,224 +2,248 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5b2ldN56TYh":
+      case "65igiH3by7X":
         Script1();
         break;
-      case "6hGrKDeiLiE":
+      case "6PvHtj21ISG":
         Script2();
         break;
-      case "6kPWOZvHFwc":
+      case "6hDEw5W6V8O":
         Script3();
         break;
-      case "6ZCyYtlaQIa":
+      case "5Y2MFqPLWrX":
         Script4();
         break;
-      case "6Sb5I64RROk":
+      case "5aOHQanvILF":
         Script5();
         break;
-      case "6EUKxP1e8ZM":
+      case "5ghGHifDjFl":
         Script6();
         break;
-      case "6U1w5BZrjZb":
+      case "6a8l3ToUvLp":
         Script7();
         break;
-      case "63aX4o7so8k":
+      case "6aNj1jAZWLI":
         Script8();
         break;
-      case "5kARnkAMtZI":
+      case "5ug7bluc1gJ":
         Script9();
         break;
-      case "6XBHezYsLqZ":
+      case "6StrntsdSu7":
         Script10();
         break;
-      case "5cbsACx959t":
+      case "6KcZINgr2jO":
         Script11();
         break;
-      case "6CWeQL3d1kL":
+      case "60XQP0XXni5":
         Script12();
         break;
-      case "6DB8hAITeZX":
+      case "6SLjXSsahlR":
         Script13();
         break;
-      case "6fayaphU310":
+      case "6APuQzcK2gf":
         Script14();
         break;
-      case "6JE1bpCyQCH":
+      case "5jyKqr8QWBS":
         Script15();
         break;
-      case "67vQxkiD1sH":
+      case "5x9pA2pKCY4":
         Script16();
         break;
-      case "5pMUHLaNbRY":
+      case "5yauM8PZATt":
         Script17();
         break;
-      case "6T7ImmDClUL":
+      case "65Jq9fWr4iI":
         Script18();
         break;
-      case "6SiZUFziERH":
+      case "6gCYXOJVHOJ":
         Script19();
         break;
-      case "5UlwoHqDLvb":
+      case "6jQOn9zrCyl":
         Script20();
         break;
-      case "6BRg3OeAwgd":
+      case "5sQXMTdN9tq":
         Script21();
         break;
-      case "6jrM6G7uA6W":
+      case "5kV0ouXhNtY":
         Script22();
         break;
-      case "5wfn64ICTbo":
+      case "5cdzizhpta0":
         Script23();
         break;
-      case "5fo4UDb2BLR":
+      case "5c5bUBh144q":
         Script24();
         break;
-      case "6IAMZdXeNe2":
+      case "602QB501wLf":
         Script25();
         break;
-      case "6eTaiQqN7WJ":
+      case "6riFvxfLNV5":
         Script26();
         break;
-      case "6VC3a35nRhf":
+      case "5nmbDKDsSVT":
         Script27();
         break;
-      case "67EGIiJZZqZ":
+      case "5sNC9bZSiqa":
         Script28();
         break;
-      case "6AGZLuiTLZa":
+      case "5rQeynBDgTU":
         Script29();
         break;
-      case "6NVziw5bhpJ":
+      case "6bMPLj5fxvd":
         Script30();
         break;
-      case "6bZo7YyqEUt":
+      case "6XQKw7762lp":
         Script31();
         break;
-      case "5lSiaxi2uYg":
+      case "6OumhWFT6fD":
         Script32();
         break;
-      case "5wZjOf8Aih9":
+      case "5r6yZY3QyeY":
         Script33();
         break;
-      case "6JCiZUfCJIG":
+      case "6B1KxAg24qq":
         Script34();
         break;
-      case "6iSJUM3D9aQ":
+      case "6SXx71NqlSz":
         Script35();
         break;
-      case "6r4kKzVBo4r":
+      case "5yiE4zeAORP":
         Script36();
         break;
-      case "6XmXYjVFbUE":
+      case "5jm41sB8bdO":
         Script37();
         break;
-      case "6UiUaXGHsjs":
+      case "6RANIXbd6aj":
         Script38();
         break;
-      case "6dKqUKsDL0q":
+      case "61H4Cnc3Yf3":
         Script39();
         break;
-      case "6ZQ8Lcw8yp2":
+      case "60ENLBC6eFI":
         Script40();
         break;
-      case "6Sk80i92Vu4":
+      case "6VpfNO4KXka":
         Script41();
         break;
-      case "6F9KHZrs3eQ":
+      case "6COXSUDOXTD":
         Script42();
         break;
-      case "6Ds29VgYHrz":
+      case "6lhYHRMGMJK":
         Script43();
         break;
-      case "6huKZtQ5KCM":
+      case "6VPiwchvkNm":
         Script44();
         break;
-      case "5sfVz5H0Ytv":
+      case "5UoyG44Hq0M":
         Script45();
         break;
-      case "6N1w86XOpRU":
+      case "6U5tVbhFu4f":
         Script46();
         break;
-      case "6hPRsjrmQwV":
+      case "6riFnG6dZhc":
         Script47();
         break;
-      case "5YHoCh10QcW":
+      case "5sjKNew1Nne":
         Script48();
         break;
-      case "66ReBp4Na7d":
+      case "6Q73LKaSNLy":
         Script49();
         break;
-      case "64jnbG3MOQq":
+      case "5XFRQYMqWTs":
         Script50();
         break;
-      case "5X4RlPvo6Jb":
+      case "5ZpoZ0wsgav":
         Script51();
         break;
-      case "68qMyTUrQKv":
+      case "68l0yfApypU":
         Script52();
         break;
-      case "6liFJ9Rpab5":
+      case "6TTq9pGvksR":
         Script53();
         break;
-      case "5wRxd4N67AN":
+      case "6Xz3jhWd61t":
         Script54();
         break;
-      case "5tpq8tJboe3":
+      case "5s3bsQM7crp":
         Script55();
         break;
-      case "6gpBtKluJCv":
+      case "61A2qtexKAY":
         Script56();
         break;
-      case "6T3nFjYX3v2":
+      case "6RSiGlB81MG":
         Script57();
         break;
-      case "64OrXV9Si9p":
+      case "69b2D5bDlHv":
         Script58();
         break;
-      case "5tcKU2GwiUV":
+      case "69mFrZeoy13":
         Script59();
         break;
-      case "6MBQC9Jbryq":
+      case "6LSfC3QCOST":
         Script60();
         break;
-      case "6B8Jv3swcba":
+      case "6pLh0WrnWch":
         Script61();
         break;
-      case "633aPfzycFz":
+      case "5gDSauRm3ls":
         Script62();
         break;
-      case "5gohoRrKVAf":
+      case "5xTy9DOcu5p":
         Script63();
         break;
-      case "5VcFeswSAYm":
+      case "6GuusrTuWD3":
         Script64();
         break;
-      case "5gE3Odt9uVH":
+      case "6I8FgOOIdtb":
         Script65();
         break;
-      case "5lT497hVl6m":
+      case "6ShqjzudBhD":
         Script66();
         break;
-      case "6HlRKXLbFlv":
+      case "6IqKorVPTdY":
         Script67();
         break;
-      case "5k6YHKMxhEN":
+      case "5wQk3AwtrDR":
         Script68();
         break;
-      case "6b2R3mWIHWh":
+      case "6Jgf0hthf1x":
         Script69();
         break;
-      case "61NuXEtJgM1":
+      case "6G2fOfLMFmc":
         Script70();
         break;
-      case "6F22x7X5Ran":
+      case "6Y4p6R4WVk8":
         Script71();
         break;
-      case "5p8eikidzAO":
+      case "5y7H3WylLBX":
         Script72();
         break;
-      case "5lMmgieoO77":
+      case "6CbLFgjtBIK":
         Script73();
+        break;
+      case "6oDl2kDSwrg":
+        Script74();
+        break;
+      case "6IKqaZUIndK":
+        Script75();
+        break;
+      case "6FMq1tgHxUX":
+        Script76();
+        break;
+      case "663AFiCGBXn":
+        Script77();
+        break;
+      case "6XXXBnRlASa":
+        Script78();
+        break;
+      case "68IJ6fQwIpk":
+        Script79();
+        break;
+      case "5u7nRPddRSt":
+        Script80();
+        break;
+      case "6Ywlcpz8xc4":
+        Script81();
         break;
   }
 }
@@ -909,6 +933,82 @@ audio.volume=0;
 }
 
 function Script73()
+{
+  var audio = document.getElementById('bgSongku');
+audio.src="musik.mp3";
+audio.load();
+audio.play();
+audio.volume=0.3;
+}
+
+function Script74()
+{
+  var audio = document.getElementById('bgSongku');
+audio.src="musik.mp3";
+audio.load();
+audio.pause();
+audio.volume=0;
+
+}
+
+function Script75()
+{
+  var audio = document.getElementById('bgSongku');
+audio.src="musik.mp3";
+audio.load();
+audio.play();
+audio.volume=0.3;
+}
+
+function Script76()
+{
+  var audio = document.getElementById('bgSongku');
+audio.src="musik.mp3";
+audio.load();
+audio.pause();
+audio.volume=0;
+
+}
+
+function Script77()
+{
+  var audio = document.getElementById('bgSongku');
+audio.src="musik.mp3";
+audio.load();
+audio.play();
+audio.volume=0.3;
+}
+
+function Script78()
+{
+  var audio = document.getElementById('bgSongku');
+audio.src="musik.mp3";
+audio.load();
+audio.pause();
+audio.volume=0;
+
+}
+
+function Script79()
+{
+  var audio = document.getElementById('bgSongku');
+audio.src="musik.mp3";
+audio.load();
+audio.play();
+audio.volume=0.3;
+}
+
+function Script80()
+{
+  var audio = document.getElementById('bgSongku');
+audio.src="musik.mp3";
+audio.load();
+audio.pause();
+audio.volume=0;
+
+}
+
+function Script81()
 {
   var audio = document.getElementById('bgSongku');
 audio.src="musik.mp3";
